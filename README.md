@@ -12,7 +12,7 @@ one argument -name Name of the timer
 ## Install
 
 ```
-go install github.com/davidn5013/gorun@latest
+go install github.com/davidn5013/goTimer@lates
 ``` 
 
 / David
